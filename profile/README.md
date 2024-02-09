@@ -1,12 +1,18 @@
-## Hi there 👋
+# 24FS_I4DS27: Adversarial Attacks  <br> Wie kann KI überlistet werden?
+Diese Bachelorarbeit wird im Rahmen des Studiengangs B.Sc. Data Science der Fachhochschule Nordwestschweiz bearbeitet.
 
-<!--
+Die Bachelorarbeit wird von folgenden Studenten bearbeitet:
+Name | GitHub | 
+| -- | -- |
+Si Ben Tran | [@7ben18](https://github.com/7ben18) |
+Gabriel Torres Gamez | [@gabrieltorresgamez](https://github.com/gabrieltorresgamez) |
 
-**Here are some ideas to get you started:**
+## Dokumentation
+[Hier]() geht es zur Dokumentation der Bachelorarbeit
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Taskboard
+[Hier](https://github.com/orgs/AdversarialAttacks/projects) geht es zum Taskboard mit allen Tasks und Issues
+
+
+## Quicklinks
+| [GitHub Organisation]() | [Taskboard](https://github.com/orgs/AdversarialAttacks/projects) | [Dokumentation]() | 
