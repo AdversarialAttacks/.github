@@ -17,6 +17,5 @@ body:
   - type: textarea
     attributes:
       label: Was wurde an der Sitzung beschlossen?
-      placeholder: "[TODO: Muss noch ausgefüllt werden]"
     validations:
       required: true
