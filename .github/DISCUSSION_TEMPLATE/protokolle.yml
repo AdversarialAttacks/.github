@@ -1,0 +1,22 @@
+title: "[Protokoll] "
+body:
+  - type: checkboxes
+    attributes:
+      label: Wer hat an dieser Sitzung teilgenommen?
+      options:
+        - label: Gabriel Torres Gamez
+        - label: Si Ben Tran
+        - label: Daniel Perruchoud
+        - label: Stephan Heule
+  - type: textarea
+    attributes:
+      label: Welche sind die wichtigsten Themen, die an dieser Sitzung besprochen wurden?
+  - type: textarea
+    attributes:
+      label: Wo haben wir Hindernisse? Was blockiert den Fortschritt unser Projekts?
+  - type: textarea
+    attributes:
+      label: Was wurde an der Sitzung beschlossen?
+      placeholder: "[TODO: Muss noch ausgefüllt werden]"
+    validations:
+      required: true
