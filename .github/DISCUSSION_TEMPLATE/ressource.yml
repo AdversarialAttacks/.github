@@ -1,0 +1,21 @@
+title: "[Nützliche Ressourcen] "
+body:
+  - type: checkboxes
+    attributes:
+      label: Art der Ressource?
+      options:
+        - label: Paper
+        - label: Video
+        - label: etc...
+  - type: textarea
+    attributes:
+      label: Quelle?
+  - type: textarea
+    attributes:
+      label: Um was geht es?
+  - type: textarea
+    attributes:
+      label: Wichtigste Keypoints?
+  - type: textarea
+    attributes:
+      label: Weitere Notizen
