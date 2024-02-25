@@ -18,7 +18,7 @@ Und von folgenden Dozenten/Fachexperten betreut:
 ## Dokumentation
 Hier geht es zur Dokumentation dieser Arbeit:
 
-TODO: [Link zur Dokumentation](#)
+[Link zur Dokumentation](https://github.com/AdversarialAttacks/report)
 
 ## Taskboard
 Hier geht es zum Taskboard mit allen Tasks und Issues:
