@@ -2,6 +2,9 @@
 
 Diese Bachelorarbeit wird im Rahmen des Studiengangs B.Sc. Data Science der Fachhochschule Nordwestschweiz bearbeitet.
 
+![Bild2](https://github.com/user-attachments/assets/57a4f203-792d-4d52-831f-78e3697571f5)
+
+
 ## Teilnehmer und Betreuer
 Die Bachelorarbeit wird von folgenden Studenten bearbeitet:
 | Name                 | GitHub Handle                                                |
