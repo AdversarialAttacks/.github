@@ -2,9 +2,6 @@
 
 Diese Bachelorarbeit wird im Rahmen des Studiengangs B.Sc. Data Science der Fachhochschule Nordwestschweiz bearbeitet.
 
-![Bild2](https://github.com/user-attachments/assets/57a4f203-792d-4d52-831f-78e3697571f5)
-
-
 ## Teilnehmer und Betreuer
 Die Bachelorarbeit wird von folgenden Studenten bearbeitet:
 | Name                 | GitHub Handle                                                |
@@ -36,3 +33,7 @@ Hier geht es zum Taskboard mit allen Tasks und Issues:
 Hier geht es zu den Sitzungsprotokollen dieser Arbeit:
 
 [Link zu den Protokollen](https://github.com/orgs/AdversarialAttacks/discussions/categories/protokolle)
+
+## Austellungsposter
+
+![Adversarial-Attacks-Poster](https://github.com/user-attachments/assets/2714f7cc-49ec-4d2c-94d4-855c302a336e)
